@@ -1,4 +1,5 @@
-### efo4130
+###  **Discord**: [efo4130](https://discord.com/users/efo4130)
+
 
 <!--
 **efomazolini/efomazolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
